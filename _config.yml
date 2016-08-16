@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: 一韬的博客
+subtitle: 我的全栈之路
+description: 记录我的编程点滴
+author: yitao@pucalive.com
+language: zh-cn
+timezone: utc+8
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.allstack.win
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
