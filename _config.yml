@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 一韬的博客
-subtitle: 我的全栈之路
+title: yitao's blog
+subtitle: 
 description: 记录我的编程点滴
 author: yitao@pucalive.com
-language: zh-cn
-timezone: utc+8
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
