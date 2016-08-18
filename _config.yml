@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: yitao's blog
+title: 一韬的博客
 subtitle: 
-description: 记录我的编程点滴
+description: 用JavaScript征服世界
 author: yitao@pucalive.com
-language: zh-CN
+avatar: http://awaw00.vicp.io/avt.jpg
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -63,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -72,3 +73,21 @@ deploy:
   repo:
     unordered: git@unordered.xyz:awaw00-blog.git,master
     github: git@github.com:awaw00/blog.git,master
+
+# Analyze
+tencent_analytics: 58001324
+# baidu_analytics: 5e8a1a8844f0c8637aab248f5606937d
+
+# Comment Plugin
+duoshuo_shortname: awaw00-blog
+
+# 多说热评文章 true 或者 false
+duoshuo_hotartical: true
+
+# JiaThis 分享服务
+jiathis: true
+
+# Local Search
+search:
+  path: search.xml
+  field: post
